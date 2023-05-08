@@ -21,6 +21,7 @@ Example====
 echo X5O!P%@AP[4\PZX54(P^^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*>"\\?\C:\malware.exe "
 
 Test====
+
 echo " this is not malware" > "\\?\C:\windows\temp\notbad.exe"
 
 echo " this IS malware SPOOKY!!" > "\\?\C:\windows\temp\notbad.exe "
