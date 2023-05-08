@@ -14,13 +14,13 @@ c:\PROGRA~1 (the short name notation)	8.3 filename (also called a short filename
 
 
 
-Example====
+Example====  
+
 (this string is a test string that should triger an alert)
+
 echo X5O!P%@AP[4\PZX54(P^^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*>"\\?\C:\malware.exe "
 
 Test====
-
-
 echo " this is not malware" > "\\?\C:\windows\temp\notbad.exe"
 
 echo " this IS malware SPOOKY!!" > "\\?\C:\windows\temp\notbad.exe "
