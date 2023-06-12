@@ -39,3 +39,7 @@ how to view=====
 use dir /x 
 notepad notepad~1.exe 
 ```
+
+
+# Credit for showing me this technique 
+mark baggett https://www.markbaggett.com/ https://twitter.com/MarkBaggett
